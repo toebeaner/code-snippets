@@ -1,3 +1,5 @@
+// Paste this entire script into your console, restart discord to clear.
+
 {
 
     clear()
