@@ -6,4 +6,6 @@ code snippets that are useful for me
 > [**Discord Examples**](https://github.com/toebeaner/code-snippets/tree/main/discord)
 
 ## hyper links
-> [Python](https://www.python.org/downloads/)
+> [Python](https://www.python.org/)
+
+> [JavaScript](https://www.javascript.com/)
