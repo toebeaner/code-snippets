@@ -7,10 +7,13 @@
 ### Basic Class
 - Example below
 ```py
-main = example( 
+import basic_class
+
+main = basic_class.example( # Line 1
     breed = "Siamese cat", 
     name = "weird cat"
 ) 
+
 
 class_example = main.view() # func / line 9
 print(class_example.breed)
